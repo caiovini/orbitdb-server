@@ -13,7 +13,7 @@
   "devDependencies": {
     "form-data": "^2.3.1",
     "mocha": "^4.0.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "resumer": "0.0.0",
     "rimraf": "^2.6.2",
     "webpack-cli": "^3.3.2"
